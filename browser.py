@@ -4,7 +4,7 @@ Change default browser in Windows 11 to Chrome
 ----Constraint----
 OS: Windows 11
 Display resolution: 1920*1080
-Windows theme: Dark mode
+Windows theme: Light mode
 Scale and layout: 125%
 """
 
